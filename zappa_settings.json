@@ -1,0 +1,8 @@
+{
+    "dev_ap_northeast_1": {
+        "app_function": "main.app",
+        "profile_name": "default",
+        "s3_bucket": "devbucket3245125214124"
+    }
+
+}
